@@ -1,4 +1,4 @@
-![Nazmus Shakib Sayom, cyber-physical systems safety and security](assets/terminal.png)
+![Nazmus Shakib Sayom, cyber-physical systems safety and security](assets/sayom-terminal.png)
 
 PhD researcher in **cyber-physical systems safety and security** at the University of Utah,
 in the [IOTrust Lab](https://iotrustlab.com/people/nsssayom/) with [Luis A. Garcia](https://lagarcia.us/).
