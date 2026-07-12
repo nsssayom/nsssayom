@@ -1,4 +1,4 @@
-![Nazmus Shakib Sayom, cyber-physical systems safety and security](assets/header.png)
+![Nazmus Shakib Sayom, cyber-physical systems safety and security](assets/terminal.png)
 
 PhD researcher in **cyber-physical systems safety and security** at the University of Utah,
 in the [IOTrust Lab](https://iotrustlab.com/people/nsssayom/) with [Luis A. Garcia](https://lagarcia.us/).
@@ -9,6 +9,10 @@ surrogate execution for robotic and autonomous systems.
 
 - Property-guided falsification and surrogation for CPS control stacks, validated on PX4 and ArduPilot
 - Building [Obadh](https://github.com/nsssayom/obadh_engine), a deterministic Roman-to-Bangla transliteration engine and native keyboards (Rust core with autocorrect and autosuggest, iOS keyboard in development)
+
+**Before the PhD**
+
+I worked in embedded systems and Linux engineering: ARM Linux distributions built with Yocto (OTA updates, security hardening, kernel and driver work), multithreaded C/C++ and Python services, and IoT and computer-vision prototyping. Along the way I taught Operating Systems and Embedded Systems.
 
 **Selected work**
 
