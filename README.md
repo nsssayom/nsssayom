@@ -8,7 +8,14 @@ surrogate execution for robotic and autonomous systems.
 **Currently**
 
 - Property-guided falsification and surrogation for CPS control stacks, validated on PX4 and ArduPilot
-- Building [Obadh](https://github.com/nsssayom/obadh_engine), a deterministic Roman-to-Bangla transliteration engine and native keyboards (Rust core with autocorrect and autosuggest, iOS shipped)
+- Building [Obadh](https://github.com/nsssayom/obadh_engine), a deterministic Roman-to-Bangla transliteration engine and native keyboards (Rust core with autocorrect and autosuggest, iOS keyboard in development)
+
+**Selected work**
+
+- **[obadh_engine](https://github.com/nsssayom/obadh_engine)** `Rust` : a deterministic Roman-to-Bangla transliteration engine and modern successor to Avro Phonetic, with autocorrect and next-word autosuggest over its rule-based core.
+- **[buggy_drone](https://github.com/iotrustlab/buggy_drone)** `Python` : a modular drone simulation with an STL-guided fuzzer and a structure-preserving reduced pipeline (SCRBE) for fast analysis of emergency-deployment logic.
+- **[OpenGaze](https://github.com/nsssayom/OpenGaze)** `Python` : a web service for facial landmark, head-pose, and eye-gaze estimation built on OpenFace 2.0.
+- **[TALK-E](https://github.com/nsssayom/TALK-E)** `C++` : an nRF24L01+ based digital walkie-talkie on 2.4 GHz radio, running on Arduino.
 
 **Find me**
 
